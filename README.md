@@ -17,7 +17,7 @@ NK Codes💛 - Digital Clock is a GitHub repository showcasing a stylish and mod
 
 Live Demo:
 
-   
+https://nishap24.github.io/NKCodes-Digital-Clock/   
 ## Getting Started
 
 To use the NK Codes💛 - Digital Clock, follow these steps:
