@@ -10,7 +10,7 @@ NK Codes💛 - Digital Clock is a GitHub repository showcasing a stylish and mod
 
 ## Authors
 
-- [NK💛](https://www.github.com/codesofTG) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
@@ -71,7 +71,9 @@ Note: The provided code offers a stylish and modern digital clock with vibrant c
 
 - Customizable through CSS to match desired styles.
 
+## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fdf527fb-e198-4b0f-8f52-dd5106f6c55c/deploy-status)](https://app.netlify.com/sites/kanasu-digital-clock/deploys)
 
 ## Contributing
 
